@@ -217,7 +217,6 @@ form input {
 }
 iframe {
   width: 50vw;
-  height: 20rem;
   border: 2px solid var(--primaryColor);
 }
 
