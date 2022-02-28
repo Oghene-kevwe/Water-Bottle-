@@ -180,7 +180,6 @@ form input {
 /* SECTION 1 */
 .section-1 {
   text-align: left;
-  font-size: 105%;
   padding: 2rem;
 }
 .icons {
@@ -218,7 +217,7 @@ form input {
 }
 iframe {
   width: 50vw;
-  height: 50vh;
+  height: 20rem;
   border: 2px solid var(--primaryColor);
 }
 
